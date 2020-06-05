@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\bin\Debug\netcoreapp3.1\Aula11Polimorfismo.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\bin\Debug\netcoreapp3.1\Aula11Polimorfismo.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\bin\Debug\netcoreapp3.1\Aula11Polimorfismo.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\bin\Debug\netcoreapp3.1\Aula11Polimorfismo.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\bin\Debug\netcoreapp3.1\Aula11Polimorfismo.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\bin\Debug\netcoreapp3.1\Aula11Polimorfismo.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\obj\Debug\netcoreapp3.1\Aula11Polimorfismo.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\obj\Debug\netcoreapp3.1\Aula11Polimorfismo.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\obj\Debug\netcoreapp3.1\Aula11Polimorfismo.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\obj\Debug\netcoreapp3.1\Aula11Polimorfismo.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\obj\Debug\netcoreapp3.1\Aula11Polimorfismo.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\obj\Debug\netcoreapp3.1\Aula11Polimorfismo.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula11Polimorfismo\obj\Debug\netcoreapp3.1\Aula11Polimorfismo.genruntimeconfig.cache
